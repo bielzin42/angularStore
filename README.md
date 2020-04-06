@@ -9,9 +9,9 @@ can't understand? RTFM!
 ![alt text](https://i.imgur.com/9gf7XxL.png "index")
 
 
-### the app-product-list prototype: 
+### the app-product-list HTML prototype: 
 ![alt text](https://i.imgur.com/p5Ogp6H.png)
 
 
-### the app-product-list prototype: 
+### the app-product-list .ts prototype: 
 ![alt text](https://i.imgur.com/htbD3Z3.png)
