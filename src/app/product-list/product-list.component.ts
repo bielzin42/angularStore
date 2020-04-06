@@ -15,7 +15,7 @@ export class ProductListComponent {
   }
 
   buy(){
-    window.alert('The product has been added to the cart')
+    window.alert(`The product has been added to cart`);
   }
 
   onNotify(){
