@@ -3,6 +3,7 @@
 
 [Angular documentation ⚡️](https://angular.io/start)
 
+can't understand? RTFM!
 
 ### The basic index prototype: 
 ![alt text](https://i.imgur.com/9gf7XxL.png "index")
