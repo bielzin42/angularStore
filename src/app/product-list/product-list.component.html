@@ -13,6 +13,10 @@
   <p *ngIf="product.price">Price: R${{product.price}}</p>
   <button (click)="share()">Share</button>
   <button (click)="buy()">Buy</button>
+
+  <app-product-alerts
+  [product]="product" (notify)="onNotify()">  
+</app-product-alerts>
   
 </div>
 
