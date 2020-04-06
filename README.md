@@ -2,5 +2,5 @@
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-7eyvdg)
 
 
-Inline-style: 
+### The basic index prototype: 
 ![alt text](https://i.imgur.com/9gf7XxL.png "index")
